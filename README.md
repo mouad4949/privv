@@ -162,3 +162,4 @@ Mise à jour du README - 2025-11-25
 Mise à jour du README - 2025-11-26
 Mise à jour du README - 2025-11-27
 Mise à jour du README - 2025-11-28
+Mise à jour du README - 2025-11-29
