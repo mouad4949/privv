@@ -169,3 +169,4 @@ Mise à jour du README - 2025-12-02
 Mise à jour du README - 2025-12-03
 Mise à jour du README - 2025-12-04
 Mise à jour du README - 2025-12-05
+Mise à jour du README - 2025-12-06
