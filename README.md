@@ -245,3 +245,4 @@ Mise à jour du README - 2026-04-12
 Mise à jour du README - 2026-06-02
 Mise à jour du README - 2026-06-03
 Mise à jour du README - 2026-06-04
+Mise à jour du README - 2026-06-06
